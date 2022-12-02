@@ -1,5 +1,4 @@
-https://media.giphy.com/media/26n6N6cXfE3Z8JX7G/giphy.gif
-
+<div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/26n6N6cXfE3Z8JX7G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sixt-26n6N6cXfE3Z8JX7G">via GIPHY</a></p>
 
 Hi! I'm Ahsan and I am a Software QA Engineer with strong QA skills and with 10+ years of total experience in IT.
 
